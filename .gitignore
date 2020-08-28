@@ -134,6 +134,7 @@ dmypy.json
 # input data and models
 data/
 models/
+.vscode/
 
 
 # data files
